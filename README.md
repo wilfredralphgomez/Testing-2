@@ -2,23 +2,23 @@
 
 # Tiny Tapeout Wokwi Project Template Testing 2
 
-- [Read the documentation for project](docs/info.md)
+- [Read the documentation for project](docs/info.md) Testing 2
 
 ## What is Tiny Tapeout? Testing 2
 
-Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip.
+Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip. Testing 2
 
 To learn more and get started, visit https://tinytapeout.com.
 
 ## Wokwi Projects Testing 2
 
-Edit the [info.yaml](info.yaml) and change the `wokwi_id` to the ID of your Wokwi project. You can find the ID in the URL of your project, it's the big number after `wokwi.com/projects/`.
+Edit the [info.yaml](info.yaml) and change the `wokwi_id` to the ID of your Wokwi project. You can find the ID in the URL of your project, it's the big number after `wokwi.com/projects/`. Testing 2
 
 The GitHub action will automatically fetch the digital netlist from Wokwi and build the ASIC files.
 
 ## Enable GitHub actions to build the results page
 
-- [Enabling GitHub Pages](https://tinytapeout.com/faq/#my-github-action-is-failing-on-the-pages-part)
+- [Enabling GitHub Pages](https://tinytapeout.com/faq/#my-github-action-is-failing-on-the-pages-part) Testing 2
 
 ## Resources
 
@@ -29,7 +29,7 @@ The GitHub action will automatically fetch the digital netlist from Wokwi and bu
 - [Build your design locally](https://www.tinytapeout.com/guides/local-hardening/)
 
 ## What next?
-
+Testing 2
 - [Submit your design to the next shuttle](https://app.tinytapeout.com/).
 - Edit [this README](README.md) and explain your design, how it works, and how to test it.
 - Share your project on your social network of choice:
